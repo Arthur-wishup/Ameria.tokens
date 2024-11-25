@@ -1,7 +1,13 @@
 {
   "tokenSetOrder": [
     "global",
-    "aaa",
-    "bbb"
+    "Color primitives/Background",
+    "Color primitives/On background",
+    "Color alias tokens/Light",
+    "Tokens/Light",
+    "Tokens/Dark",
+    "Radius/Mode 1",
+    "Spacing/Mode 1",
+    "Page spacing/Mode 1"
   ]
 }

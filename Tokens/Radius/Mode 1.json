@@ -1,0 +1,34 @@
+{
+  "L - 12 px": {
+    "value": 12,
+    "type": "number"
+  },
+  "S - 4 px": {
+    "value": 4,
+    "type": "number"
+  },
+  "M - 8 px": {
+    "value": 8,
+    "type": "number"
+  },
+  "XM - 10 px": {
+    "value": 10,
+    "type": "number"
+  },
+  "None - 0 px": {
+    "value": 0,
+    "type": "number"
+  },
+  "XS - 2px": {
+    "value": 2,
+    "type": "number"
+  },
+  "XL - 16 px": {
+    "value": 16,
+    "type": "number"
+  },
+  "XXL - 20 px": {
+    "value": 20,
+    "type": "number"
+  }
+}

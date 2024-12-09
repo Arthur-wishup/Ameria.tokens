@@ -1,7 +1,7 @@
 {
   "color": {
     "button-bg-primary": {
-      "value": "{color.primary.lvl-5}",
+      "value": "{color.danger.lvl-9}",
       "type": "color"
     }
   }

@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "Light"
+    "Core Tokens",
+    "Light",
+    "Dark"
   ]
 }

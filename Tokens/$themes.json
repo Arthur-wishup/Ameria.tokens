@@ -4,7 +4,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Light": "enabled"
+      "Core Tokens/Primitives": "disabled",
+      "Alias/Light": "enabled",
+      "Alias/Dark": "disabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "ac6247797a3952f09541a7c1d925cb036b852508"
@@ -17,7 +19,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Dark": "enabled"
+      "Core Tokens/Primitives": "disabled",
+      "Alias/Light": "disabled",
+      "Alias/Dark": "enabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "03661aaaf53aae3a5c3796f7fd8b5288b109f460"

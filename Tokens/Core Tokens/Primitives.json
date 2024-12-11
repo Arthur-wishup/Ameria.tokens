@@ -578,77 +578,73 @@
     }
   },
   "border radius": {
-    "radius-0": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "radius-2": {
+    "4xs": {
       "value": "2",
       "type": "borderRadius"
     },
-    "radius-4": {
+    "3xs": {
       "value": "4",
       "type": "borderRadius"
     },
-    "radius-6": {
+    "2xs": {
       "value": "6",
       "type": "borderRadius"
     },
-    "radius-8": {
+    "xs": {
       "value": "8",
       "type": "borderRadius"
     },
-    "radius-12": {
+    "md": {
       "value": "12",
       "type": "borderRadius"
     },
-    "radius-16": {
+    "lg": {
       "value": "16",
       "type": "borderRadius"
     },
-    "radius-20": {
+    "xlg": {
       "value": "20",
       "type": "borderRadius"
     },
-    "radius-24": {
+    "2xlg": {
       "value": "24",
       "type": "borderRadius"
     },
-    "radius-32": {
+    "3xlg": {
       "value": "32",
       "type": "borderRadius"
     },
-    "radius-rounded": {
+    "rounded": {
       "value": "9999",
       "type": "borderRadius"
     }
   },
   "border width": {
-    "border-width-0,5": {
+    "3xs": {
       "value": "0.5",
       "type": "borderWidth"
     },
-    "border-width-1": {
+    "2xs": {
       "value": "1",
       "type": "borderWidth"
     },
-    "border-width-1,2": {
+    "sm": {
       "value": "1.2",
       "type": "borderWidth"
     },
-    "border-width-1,5": {
+    "md": {
       "value": "1.5",
       "type": "borderWidth"
     },
-    "border-width-2": {
+    "lg": {
       "value": "2",
       "type": "borderWidth"
     },
-    "border-width-3": {
+    "xlg": {
       "value": "3",
       "type": "borderWidth"
     },
-    "border-width-4": {
+    "2xlg": {
       "value": "4",
       "type": "borderWidth"
     }

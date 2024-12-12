@@ -4,29 +4,36 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core Tokens/Primitives": "disabled",
-      "Alias/Light": "enabled",
-      "Alias/Dark": "disabled"
+      "Alias/Light": "enabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "ac6247797a3952f09541a7c1d925cb036b852508"
     },
     "$figmaCollectionId": "VariableCollectionId:384:38108",
-    "$figmaModeId": "384:5"
+    "$figmaModeId": "384:5",
+    "group": "Alias Tokens Mobile"
   },
   {
     "id": "0063feeef6db1c6b46500558a6243f4bb7b302cc",
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core Tokens/Primitives": "disabled",
-      "Alias/Light": "disabled",
       "Alias/Dark": "enabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "03661aaaf53aae3a5c3796f7fd8b5288b109f460"
     },
     "$figmaCollectionId": "VariableCollectionId:384:38155",
-    "$figmaModeId": "384:7"
+    "$figmaModeId": "384:7",
+    "group": "Alias Tokens Mobile"
+  },
+  {
+    "id": "8e261823e9d8a76d1af25b0bcbc8cb79407a96f4",
+    "name": "Primitives",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core Tokens/Primitives": "enabled"
+    },
+    "group": "System Tokens"
   }
 ]

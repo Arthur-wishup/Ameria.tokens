@@ -4,7 +4,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Alias/Light": "enabled"
+      "Alias Tokens Mobile/Light": "enabled",
+      "Alias Tokens Mobile/Dark": "disabled",
+      "System Tokens/Primitives": "disabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "ac6247797a3952f09541a7c1d925cb036b852508"
@@ -18,7 +20,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Alias/Dark": "enabled"
+      "Alias Tokens Mobile/Light": "disabled",
+      "Alias Tokens Mobile/Dark": "enabled",
+      "System Tokens/Primitives": "disabled"
     },
     "$figmaVariableReferences": {
       "color.button-bg-primary": "03661aaaf53aae3a5c3796f7fd8b5288b109f460"
@@ -32,7 +36,9 @@
     "name": "Primitives",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core Tokens/Primitives": "enabled"
+      "Alias Tokens Mobile/Light": "disabled",
+      "Alias Tokens Mobile/Dark": "disabled",
+      "System Tokens/Primitives": "enabled"
     },
     "group": "System Tokens"
   }
